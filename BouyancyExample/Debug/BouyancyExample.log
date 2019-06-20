@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level2\physics-bouyancy2d-mastervs2019\bouyancyexample\main.cpp(460): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\profiles\njp2424\desktop\physics\level2\physics-bouyancy2d-mastervs2019\bouyancyexample\main.cpp(537): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BouyancyExample.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level2\physics-bouyancy2D-masterVS2019\BouyancyExample\Debug\BouyancyExample.exe
